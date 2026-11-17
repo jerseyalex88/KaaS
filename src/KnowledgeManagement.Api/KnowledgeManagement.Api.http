@@ -1,0 +1,6 @@
+@KnowledgeManagement.Api_HostAddress = http://localhost:5226
+
+GET {{KnowledgeManagement.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
